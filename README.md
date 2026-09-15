@@ -153,13 +153,11 @@ UPI_Fraud_Analytics_Dashboard/
 ├── README.md
 │
 ├── dataset/
-│   └── upi_fraud_data.csv
-│
-├── screenshots/
-│   └── dashboard.png
-│
-└── documentation/
-    └── Project_Report.pdf
+    └── Transactions.csv
+    └── KYC.csv
+    └── Merchants.csv
+    └── Chargebacks.json
+
 ```
 
 ---
@@ -167,10 +165,6 @@ UPI_Fraud_Analytics_Dashboard/
 ## 🖼️ Dashboard Preview
 
 Add your Power BI dashboard screenshot here:
-
-```markdown
-![UPI Fraud Analytics Dashboard](screenshots/dashboard.png)
-```
 
 ---
 
